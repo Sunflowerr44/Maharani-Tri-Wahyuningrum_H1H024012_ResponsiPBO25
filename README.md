@@ -9,7 +9,7 @@ Maharani Tri Wahyuningrum_H1H024012_ResponsiPBO25
 - Tanggal: 29 November 2025
 
 ## Deskripsi Singkat Website
-Website "PokéCare — Pidgeotto" adalah simulasi berbasis PHP untuk mendemonstrasikan konsep OOP, diantaranya Encapsulation, Inheritance, Polymorphism, Abstraction. simulasi ini diimplementasikan melalui latihan Pokémon. 
+Website "PokéCare — Pidgeotto" adalah simulasi berbasis PHP untuk mendemonstrasikan konsep OOP, diantaranya Encapsulation, Inheritance, Polymorphism, Abstraction. Simulasi ini diimplementasikan melalui latihan Pokémon Pidgeotto. 
 Fitur :
 - Halaman Beranda: menampilkan data awal Pokémon (nama, tipe, level, HP, EXP).
 - Halaman Latihan: form training (jenis + intensitas), EXP, leveling, HP, skill unlock per level.
