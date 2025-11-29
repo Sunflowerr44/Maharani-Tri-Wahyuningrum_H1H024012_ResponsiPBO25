@@ -14,3 +14,6 @@ Fitur :
 - Halaman Beranda: menampilkan data awal Pokémon (nama, tipe, level, HP, EXP).
 - Halaman Latihan: form training (jenis + intensitas), EXP, leveling, HP, skill unlock per level.
 - Halaman Riwayat: menampilkan seluruh sesi latihan (jenis, intensitas, before/after, waktu).
+
+## Video Project
+![Video Projek Ketika dijalankan](webpokemon-ezgif.com-video-to-gif-converter.gif)
